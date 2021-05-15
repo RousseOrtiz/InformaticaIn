@@ -17,6 +17,7 @@ boolean estadoAnterior2 = LOW;
 boolean estadoActual = LOW;          
 boolean estadoAnterior = LOW;
 
+
 int contador = 0;
 int lED=9;
 
